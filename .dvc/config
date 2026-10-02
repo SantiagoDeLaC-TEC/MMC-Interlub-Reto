@@ -1,0 +1,8 @@
+[core]
+    remote = storage
+['remote "origin"']
+    url = https://dagshub.com/a01641354/MMC-Interlub-Reto.dvc
+['remote "storage"']
+    url = https://dagshub.com/a01641354/MMC-Interlub-Reto.dvc
+    auth = basic
+    user = JuanPVenegas13
